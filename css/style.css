@@ -397,3 +397,21 @@ width: 100%;
   left: 20px;
   font-size: 18px;
 }
+
+
+
+::-webkit-scrollbar {
+    width: 11px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgb(20, 20, 20);
+    border-left: solid rgb(39, 39, 39) 1px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: rgb(179, 0, 0);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: rgb(158, 0, 0);
+}
