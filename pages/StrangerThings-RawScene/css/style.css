@@ -209,13 +209,11 @@ a{
 
 
   .nav-b{
-    margin-bottom:100px;
-    position: relative;
+    margin-bottom:1000px;
     display: block;
     height: 65px;
     width: 100%;
     background-color: black;
-    backdrop-filter: blur(2000px);
 
 }
 .nav-logo{
