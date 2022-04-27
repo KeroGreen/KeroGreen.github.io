@@ -209,7 +209,7 @@ a{
 
 
   .nav-b{
-    margin-bottom:1000px;
+    margin-bottom:100px;
     display: block;
     height: 65px;
     width: 100%;
@@ -293,9 +293,6 @@ a{
     border-radius: 25px;
     text-align: center;
     display: inline-block;
-    position: absolute;
-    right: -25%;
-    top: 36%;
     width: 100px;
     height: 30px;
     transition: ease-in-out ;
