@@ -5,6 +5,9 @@
     font-size: 24px;
     box-sizing: border-box;
 }
+html {
+  scroll-behavior: smooth;
+}
 body{
   background-color: #22222A;
 }
